@@ -45,6 +45,7 @@ public class BaseTest {
 		}
 		else if (BrowserName.equalsIgnoreCase("edge")) 
 		{
+			WebDriverManager.edgedriver().setup();
 			driver =new EdgeDriver();	
 		}
 
