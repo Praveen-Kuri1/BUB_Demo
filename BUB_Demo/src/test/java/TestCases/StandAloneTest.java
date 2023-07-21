@@ -28,7 +28,6 @@ public class StandAloneTest extends BaseTest {
 			System.out.println("BA Login Successful");
 		}
 		
-		
 		@Test
 		public void TitleTest()
 		{
