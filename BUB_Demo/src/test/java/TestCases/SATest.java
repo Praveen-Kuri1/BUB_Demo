@@ -26,6 +26,6 @@ public class SATest extends BaseTest {
 		{
 			LandingPO landingPO=launchApplication();
 			landingPO.LoginCredential("sa@user.com", "123");
-			System.out.println("SA Login Successful");
+			System.out.println("SA Login Successful"); 
 		}
 }
