@@ -25,7 +25,7 @@ public class StandAloneTest extends BaseTest {
 		public void BALogin() throws IOException
 		{
 			Land.LoginCredential("ba@user.com", "123");
-			System.out.println("Success");
+			System.out.println("BA Login Successful");
 		}
 		
 		
